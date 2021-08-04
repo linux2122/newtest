@@ -1,2 +1,2 @@
-<h1> Hello, Buddie and more buddies !!! </h1>
+<h1> Hello, students !!! </h1>
 
